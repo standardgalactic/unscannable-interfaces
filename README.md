@@ -55,7 +55,7 @@ Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/Haplopraxis/IFM (î­î
 $ cd ../..
 
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub
-$ git clone https://github.com/standardgalactic/unscannable-interfaces
+$```git clone https://github.com/standardgalactic/unscannable-interfaces```
 Cloning into 'unscannable-interfaces'...
 remote: Enumerating objects: 83, done.
 remote: Counting objects: 100% (27/27), done.
@@ -175,7 +175,8 @@ Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interface
 $     # only way I can stop ls from escaping with backslashes
 
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interfaces (main)
-$     if [ -t 1 ]; then
+$
+>     if [ -t 1 ]; then
 >         /bin/ls -C $@ |cat
 >     else
 >         /bin/ls $@ |cat
