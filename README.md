@@ -2,55 +2,6 @@
 
 ## How to install
 
-@@ -149902,6 +149899,7 @@ Zürich  <br>
- Œ  <br>
- Śramaṇa  <br>
- Śruti  <br>
-+Şymkent  <br>
- Šaškinovci  <br>
- Šesti Gabar  <br>
- Šodolovci  <br>
-@@ -149925,6 +149923,7 @@ Zürich  <br>
- Α-Amylase  <br>
- Α-Endorphin  <br>
- Α-Halo ketone  <br>
-+Α-Methyltryptamine  <br>
- Α-Pinene  <br>
- Α-aminoisobutyric acid  <br>
- Α-helix  <br>
-@@ -149944,6 +149943,7 @@ Zürich  <br>
- Γ-Endorphin  <br>
- Γ-L-Glutamyl-L-cysteine  <br>
- Γ-tubulin  <br>
-+Δ-8-Tetrahydrocannabinol  <br>
- Δ-opioid receptor  <br>
- ΔG°  <br>
- ΔP  <br>
-(END)  <br>
- Y chromosome  <br>
- Y chromosome microdeletion  <br>
-@@ -149902,6 +149899,7 @@ Zürich  <br>
- Œ  <br>
- Śramaṇa  <br>
- Śruti  <br>
-+Şymkent  <br>
- Šaškinovci  <br>
- Šesti Gabar  <br>
- Šodolovci  <br>
-@@ -149925,6 +149923,7 @@ Zürich  <br>
- Α-Amylase  <br>
- Α-Endorphin  <br>
- Α-Halo ketone  <br>
-+Α-Methyltryptamine  <br>
- Α-Pinene  <br>
- Α-aminoisobutyric acid  <br>
- Α-helix  <br>
-@@ -149944,6 +149943,7 @@ Zürich  <br>
- Γ-Endorphin  <br>
- Γ-L-Glutamyl-L-cysteine  <br>
- Γ-tubulin  <br>
-+Δ-8-Tetrahydrocannabinol  <br>
-  <br>
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/Haplopraxis/IFM ()  <br>
 $ cd ../..  <br>
   <br>
