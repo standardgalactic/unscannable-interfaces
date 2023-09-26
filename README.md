@@ -171,3 +171,42 @@ $ ls
 
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interfaces (main)
 
+Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interfaces (main)
+$     # only way I can stop ls from escaping with backslashes
+
+Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interfaces (main)
+$     if [ -t 1 ]; then
+>         /bin/ls -C $@ |cat
+>     else
+>         /bin/ls $@ |cat
+>     fi
+Abstract Symbolic Distillation.mhtml
+Anthroposophical Reading Kitbash.mhtml
+Attentional Cladistics.mhtml
+Biometric Autobot Detector.mhtml
+Chain-of-action Technique.mhtml
+Critique of Integrated Pseudoscience.mhtml
+Dangerously Utopian Overtones.mhtml
+Dynamic Flow Computing.mhtml
+Evolution of Dome Architecture.mhtml
+GLIB Theory Interpretations.mhtml
+Generalized Learning through Integrative Biomimicry.mhtml
+Hexagonal Self-Hypnosis.mhtml
+Human Values and Evolution.mhtml
+Innermost Nested Bubble.mhtml
+LICENSE
+Linux Swarmbots.mhtml
+Macrolife Chronicles.mhtml
+Metabotropic Cognition.mhtml
+Neural Basis of Future Prediction.mhtml
+Oddly-Named Derivatives.mhtml
+Parrots and Language Understanding.mhtml
+Quiet Brainscan.mhtml
+README.md
+Relativistic Graph Interpretation.mhtml
+Retrofuturist Knowledge.mhtml
+Spherepop Controls.mhtml
+Telephrasitic Microblockchain Infiltration.mhtml
+Tree of Self-reflection.mhtml
+Understanding Deleuzian Rhizomatics.mhtml
+𒀭𒅎 𒀀 𒂗 𒁺 𒌆 𒉈 𒄑
