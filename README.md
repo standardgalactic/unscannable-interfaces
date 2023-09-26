@@ -55,7 +55,11 @@ Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/Haplopraxis/IFM (о≠По
 $ cd ../..  <br>
   <br>
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub  <br>
-$```git clone https://github.com/standardgalactic/unscannable-interfaces```  <br>
+$
+```
+git clone https://github.com/standardgalactic/unscannable-interfaces
+cd unscannable-interfaces
+```
 Cloning into 'unscannable-interfaces'...  <br>
 remote: Enumerating objects: 83, done.  <br>
 remote: Counting objects: 100% (27/27), done.  <br>
@@ -176,11 +180,11 @@ $     # only way I can stop ls from escaping with backslashes  <br>
   <br>
 Mechachleopteryx@Memex MINGW64 ~/OneDrive/Documents/GitHub/unscannable-interfaces (main)  <br>
 $  <br>
->     if [ -t 1 ]; then  <br>
->         /bin/ls -C $@ |cat  <br>
->     else  <br>
->         /bin/ls $@ |cat  <br>
->     fi  <br>
+>     if [ -t 1 ]; then
+>         /bin/ls -C $@ |cat
+>     else
+>         /bin/ls $@ |cat
+>     fi
 Abstract Symbolic Distillation.mhtml  <br>
 Anthroposophical Reading Kitbash.mhtml  <br>
 Attentional Cladistics.mhtml  <br>
