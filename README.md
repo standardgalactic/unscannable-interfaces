@@ -59,6 +59,7 @@ $
 ```
 git clone https://github.com/standardgalactic/unscannable-interfaces
 cd unscannable-interfaces
+grep -ri -C 10 "docker" .
 ```
 Cloning into 'unscannable-interfaces'...  <br>
 remote: Enumerating objects: 83, done.  <br>
