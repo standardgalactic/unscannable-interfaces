@@ -1,36 +1,36 @@
 # Unscannable Interfaces
 
 ## Index
-Abstract Symbolic Distillation
-Anthroposophical Reading Kitbash
-Attentional Cladistics
-Biometric Autobot Detector
-Chain-of-action Technique
-Cosmic Theories Explored
-Critique of Integrated Pseudoscience
-Dangerously Utopian Overtones
-Dynamic Flow Computing
-Evolution of Dome Architecture
-GLIB Theory Interpretations
-Gait Misattribution Error
-Generalized Learning through Integrative Biomimicry
-Hexagonal Self-Hypnosis
-Human Values and Evolution
-Innermost Nested Bubble
-Integrated Pseudoscience
-Linux Swarmbots
-Macrolife Chronicles
-Metabotropic Cognition
-Neural Basis of Future Prediction
-Oddly-Named Derivatives
-Origin of Mass and Gravity
-Parrots and Language Understanding
-Quiet Brainscan
-Relativistic Graph Interpretation
-Retrofuturist Knowledge
-Spherepop Controls
-Telephrasitic Microblockchain Infiltration
-Tree of Self-reflection
-Understanding Deleuzian Rhizomatics
-Work on Spherepop
-𒀭𒅎 𒀀 𒂗 𒁺 𒌆 𒉈 𒄑
+Abstract Symbolic Distillation  <br>
+Anthroposophical Reading Kitbash  <br>
+Attentional Cladistics  <br>
+Biometric Autobot Detector  <br>
+Chain-of-action Technique  <br>
+Cosmic Theories Explored  <br>
+Critique of Integrated Pseudoscience  <br>
+Dangerously Utopian Overtones  <br>
+Dynamic Flow Computing  <br>
+Evolution of Dome Architecture  <br>
+GLIB Theory Interpretations  <br>
+Gait Misattribution Error  <br>
+Generalized Learning through Integrative Biomimicry  <br>
+Hexagonal Self-Hypnosis  <br>
+Human Values and Evolution  <br>
+Innermost Nested Bubble  <br>
+Integrated Pseudoscience  <br>
+Linux Swarmbots  <br>
+Macrolife Chronicles  <br>
+Metabotropic Cognition  <br>
+Neural Basis of Future Prediction  <br>
+Oddly-Named Derivatives  <br>
+Origin of Mass and Gravity  <br>
+Parrots and Language Understanding  <br>
+Quiet Brainscan  <br>
+Relativistic Graph Interpretation  <br>
+Retrofuturist Knowledge  <br>
+Spherepop Controls  <br>
+Telephrasitic Microblockchain Infiltration  <br>
+Tree of Self-reflection  <br>
+Understanding Deleuzian Rhizomatics  <br>
+Work on Spherepop  <br>
+𒀭𒅎 𒀀 𒂗 𒁺 𒌆 𒉈 𒄑  <br>
