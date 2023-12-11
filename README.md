@@ -24,6 +24,7 @@ Generalized Learning through Integrative Biomimicry  <br>
 Hexagonal Self-Hypnosis  <br>
 Holographic Seam-mapping  <br>
 Human Values and Evolution  <br>
+Ideational Apraxia  <br>
 Innermost Nested Bubble  <br>
 Integrated Pseudoscience  <br>
 Interpolar Diaspora  <br>
