@@ -47,5 +47,6 @@ Spherepop Controls  <br>
 Telephrasitic Microblockchain Infiltration  <br>
 Tree of Self-reflection  <br>
 Understanding Deleuzian Rhizomatics  <br>
+Unscannable Interfaces  <br>
 Work on Spherepop  <br>
 𒀭𒅎 𒀀 𒂗 𒁺 𒌆 𒉈 𒄑  <br>
