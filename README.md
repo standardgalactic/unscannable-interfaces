@@ -44,6 +44,7 @@ Remap Numpad Key  <br>
 Retrofuturist Knowledge  <br>
 Sheer to Tilt  <br>
 Spherepop Controls  <br>
+Telepathic Balloon Pop  <br>
 Telephrasitic Microblockchain Infiltration  <br>
 Tree of Self-reflection  <br>
 Understanding Deleuzian Rhizomatics  <br>
