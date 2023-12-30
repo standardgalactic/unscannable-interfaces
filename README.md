@@ -1,5 +1,14 @@
 # Unscannable Interfaces
 
+|       |
+|:-----:|
+| ![](Images/enneasection-1.jpg) |
+| ![](Images/enneasection-2.jpg) |
+| ![](Images/enneasection-3.jpg) |
+| ![](Images/enneasection-4.jpg) |
+| ![](Images/enneasection-5.jpg) |
+<p align="center"><i>Alternate History</i></p>
+
 ## Index
 AI and Literature Discussion  <br>
 Abstract Symbolic Distillation  <br>
@@ -16,6 +25,7 @@ Dangerously Utopian Overtones  <br>
 Data Sources and Methods  <br>
 Diverse Ideas and Concepts  <br>
 Dynamic Flow Computing  <br>
+Enneasecting Problem Domains  <br>
 Evolution of Dome Architecture  <br>
 Evolutionary Thought Before Darwin  <br>
 GLIB Theory Interpretations  <br>
